@@ -1,0 +1,797 @@
+﻿,ARCHSERIE
+0,@Ignister
+1,A-to-Z
+2,A.I.
+3,ABC
+4,Abyss Actor
+5,Abyss Costume
+6,Abyss Script
+7,Abyss-
+8,Adamancipator
+9,Advanced Crystal Beast
+10,Aesir
+11,Aether
+12,Aged counterpart
+13,Alchemy Beast
+14,Alien
+15,Alligator
+16,Allure Queen
+17,Ally of Justice
+18,Altergeist
+19,Amazoness
+20,Amorphage
+21,Ancient
+22,Ancient
+23,Ancient Gear
+24,Ancient Treasure
+25,Ancient Warriors
+26,Angel
+27,Anti
+28,Ape
+29,Apoqliphort
+30,Appliancer
+31,Aquaactress
+32,Aquarium
+33,Arcana Force
+34,Archfiend
+35,Armatos Legio
+36,Armed Dragon
+37,Armor Canine
+38,Armor Ninja
+39,Aroma
+40,Artifact
+41,Artorigus
+42,Assassin
+43,Assault Blackwing
+44,Assault Mode
+45,Astral
+46,Atlandis
+47,Atlantean
+48,Attack
+49,Attribute Booster
+50,Attribute Knight
+51,Attribute Reptile
+52,Attribute Spirit
+53,Attribute Summoner
+54,B.E.S.
+55,Baboon of the Forest
+56,Baby
+57,Backup
+58,Bamboo Sword
+59,Barbaros
+60,Barian
+61,Barian's
+62,Barrier Statue
+63,Batteryman
+64,Battleguard
+65,Battlewasp
+66,Battlin' Boxer
+67,Beast's Battle
+68,Beastborg
+69,Beetron
+70,Black Luster Soldier
+71,Blackiwng
+72,Blackwing
+73,Blackwing Tamer
+74,Blaze Accelerator
+75,Blue-Eyes
+76,Bonding
+77,Boot-Up
+78,Borrel
+79,Bounzer
+80,Bugroth
+81,Bujin
+82,Burning Abyss
+83,Burning Skull
+84,Buster Blader
+85,Butterfly
+86,Butterspy
+87,""C""
+88,C
+89,C/C
+90,CXyz
+91,Captain
+92,Carrier
+93,Castle
+94,Cat
+95,Cat Girl
+96,Cataclysmic
+97,Cataclysmic Charmer
+98,Celestial
+99,Celtic Guard
+100,Cenozoic
+101,Cenozoic Fossil Knight
+102,Champion
+103,Change
+104,Chaos
+105,Chaos Phantom
+106,Charmer
+107,Chemical
+108,Chemicritter
+109,Chimeratech
+110,Chronomaly
+111,Chrysalis
+112,Chthonian
+113,Cicada
+114,Cipher
+115,Clear
+116,Clear Wing
+117,Clock Knight
+118,Cloudian
+119,Coach
+120,Code Talker
+121,Codebreaker
+122,Comics Hero
+123,Constellar
+124,Cookpal
+125,Corn
+126,Cosmic Synchro Monster
+127,Counter Fairy
+128,Crashbug
+129,Crusadia
+130,Crystal
+131,Crystal Beast
+132,Crystron
+133,Cubic
+134,Cubic Seed
+135,Cular
+136,Cup
+137,Cupid
+138,Cyber
+139,Cyber Angel
+140,Cyber Dragon
+141,Cyber Girl
+142,Cyberdark
+143,Cybernetic
+144,Cyberspace
+145,Cynet
+146,D-Scale
+147,D.D.
+148,D/D
+149,D/D/D
+150,DARK Dragon Tech
+151,DNA
+152,Daedalus
+153,Danger!
+154,Dante
+155,Dark Blade
+156,Dark Contract
+157,Dark Lucius
+158,Dark Magician
+159,Dark Magician Girl
+160,Dark Mummy
+161,Dark Scorpion
+162,Dark Tuner
+163,Dark World
+164,Dark counterpart
+165,Darklord
+166,Darkness
+167,Dart
+168,Debugger
+169,Deep Sea
+170,Demise
+171,Demise and Ruin
+172,Designator
+173,Deskbot
+174,Destiny HERO
+175,Destruction Sword
+176,Dice
+177,Digital Bug
+178,Dimension
+179,Dinomist
+180,Dinowrestler
+181,Divine Dragon
+182,Dizzy
+183,Djinn
+184,Djinn of Rituals
+185,Dododo
+186,Dog
+187,Dog Marron
+188,Doll
+189,Doll Monster
+190,Doll Part
+191,Doodle
+192,Doodle Beast
+193,Doriado
+194,Draconia
+195,Dracoslayer
+196,Dracoverlord
+197,Dragma
+198,Dragon Ninja
+199,Dragon Ruler
+200,Dragonmaid
+201,Dragunity
+202,Drain
+203,Dream Mirror
+204,Drone
+205,Druid
+206,Duel Dragon
+207,Duel winner
+208,Duston
+209,Dyson
+210,Earth
+211,Earthbound
+212,Earthbound Immortal
+213,Earthbound Servant
+214,Eco Spell
+215,Edge Imp
+216,Effigy
+217,Egg
+218,Egyptian God
+219,Elder Entity
+220,Eldlich
+221,Eldlixir
+222,Element
+223,Elemental HERO
+224,Elemental Lord
+225,Elementsaber
+226,Elf
+227,Emissary of Darkness
+228,Empower
+229,Empowered Warrior
+230,Endymion
+231,Entity
+232,Evigishki
+233,Evil Eye
+234,Evil HERO
+235,Evo-
+236,Evol
+237,Evolsaur
+238,Evoltile
+239,Evolution Pill
+240,Evolzar
+241,Exodia
+242,Eyes Restrict
+243,F.A.
+244,Fabled
+245,Fairy
+246,Fairy Tail
+247,Fairy Tale
+248,Familiar-Possessed
+249,Fan-Made Cards
+250,Felgrand
+251,Field Searcher
+252,Fire Fist
+253,Fire Formation
+254,Fire King
+255,Fire King Avatar
+256,Firewall
+257,Fishborg
+258,Flame Swordsman
+259,Flamvell
+260,Fleur
+261,Flower Cardian
+262,Fluffal
+263,Forbidden
+264,Forbidden Beast
+265,Forbidden One
+266,Force
+267,Forest
+268,Fortune Fairy
+269,Fortune Lady
+270,Fossil
+271,Four Dimension Dragons
+272,Freed
+273,Frightfur
+274,Frightfur Unit
+275,Frog
+276,Full Armor
+277,Fur Hire
+278,Fusion
+279,Fusion Dragon
+280,G Golem
+281,Gadget
+282,Gagaga
+283,Gaia Knight
+284,Gaia The Fierce Knight
+285,Galaxy
+286,Galaxy-Eyes
+287,Galaxy-Eyes Tachyon Dragon
+288,Gandora
+289,Gearfried
+290,Geargia
+291,Geargiano
+292,Gearspring
+293,Gem Dragon
+294,Gem-
+295,Gem-Knight
+296,Gem-Knight Lady
+297,Generaider
+298,Genex
+299,Genex Ally
+300,Geometric Knight
+301,Ghostrick
+302,Gigo
+303,Gimmick Puppet
+304,Gishki
+305,Gizmek
+306,Glacial Beast
+307,Gladiator Beast
+308,Go-D/D
+309,Goblin
+310,Gogogo
+311,Golden Castle of Stromberg
+312,Golden Land
+313,Gorgonic
+314,Gottoms
+315,Gouki
+316,Goyo
+317,Granel
+318,Gravekeeper's
+319,Graydle
+320,Greed
+321,Grepher
+322,Guard
+323,Guardian
+324,Guardragon
+325,Gun Dragon
+326,Gun Ogre
+327,Gusto
+328,Guts Master
+329,HERO
+330,Hand
+331,Harpie
+332,Hazy
+333,Hazy Flame
+334,Heart Monster
+335,Heavy Industry
+336,Hecate
+337,Helios
+338,Helixx
+339,Hell
+340,Hellfire
+341,Herald
+342,Heraldic
+343,Heraldic Beast
+344,Heraldry
+345,Heroic
+346,Heroic Challenger
+347,Heroic Champion
+348,Hex-Sealed Fusion
+349,Hi-Speedroid
+350,Hieratic
+351,Hole
+352,Horus the Black Flame Dragon
+353,Huge Revolution
+354,Hunder
+355,Hydradrive
+356,Ice Barrier
+357,Igknight
+358,Impcantation
+359,Inca
+360,Infection
+361,Infernity
+362,Infernoble Knight
+363,Infernoid
+364,Infestation
+365,Infinitrack
+366,Inmato
+367,Inpachi
+368,Inu
+369,Invoked
+370,Inzektor
+371,Iron Chain
+372,Itsu
+373,Ivy
+374,Jar
+375,Jester
+376,Jester Puppet
+377,Jinzo
+378,Junk
+379,Junk Robot
+380,Jurrac
+381,Jutte
+382,Kabuki Stage
+383,Kaiju
+384,Karakuri
+385,Keeper
+386,King
+387,Knight
+388,Knightmare
+389,Koa'ki Meiru
+390,Koala
+391,Konami Arcade Games
+392,Kozmo
+393,Krawler
+394,Kuriboh
+395,LV
+396,Lamp
+397,Landstar
+398,Laundsallyn
+399,Laval
+400,Legendary Dragon
+401,Legendary Knight
+402,Legendary Planet
+403,Legendary Six Samurai
+404,Lightray
+405,Lightsworn
+406,Line Monster
+407,Link
+408,Lswarm
+409,Lunalight
+410,Lyrilusc
+411,Machina
+412,Machine Angel
+413,Machine King
+414,Madolche
+415,Magic Elf
+416,Magical Musket
+417,Magician
+418,Magician Girl
+419,Magna Warrior
+420,Magnet
+421,Magnet Warrior
+422,Majespecter
+423,Majestic
+424,Majestic Mech
+425,Maju
+426,Malefic
+427,Malicevorous
+428,Mantis
+429,Marincess
+430,Martial Arts Spirit
+431,Mask
+432,Masked HERO
+433,Masked Knight
+434,Match winner
+435,Material
+436,Mathmech
+437,Mayakashi
+438,Mecha Phantom Beast
+439,Megalith
+440,Mekk-Knight
+441,Meklord
+442,Meklord Army
+443,Meklord Astro
+444,Meklord Emperor
+445,Melodious
+446,Melodious Maestra
+447,Melodious Songstress
+448,Merfae
+449,Mermail
+450,Mesozoic
+451,Mesozoic Fossil Knight
+452,Metal counterpart
+453,Metalfoes
+454,Metaphys
+455,Mirror Imagine
+456,Mirror Trap
+457,Mist Valley
+458,Mokey Mokey
+459,Monarch
+460,Monk
+461,Morphtronic
+462,Mosquito
+463,Moth
+464,Motor
+465,Motor Worm
+466,Mystic
+467,Mystic Swordsman
+468,Mystical Beast of the Forest
+469,Mythical Beast
+470,Mythyrian Numbers
+471,Märfae
+472,Natural Energy Cards
+473,Naturia
+474,Necro
+475,Necrovalley
+476,Neko
+477,Nekroz
+478,Nemeses
+479,Nemesys
+480,Neo Flamvell
+481,Neo-Spacian
+482,Neos
+483,Nephthys
+484,New Order
+485,Nimble
+486,Ninja
+487,Ninjitsu Art
+488,Nitro
+489,Noble Arms
+490,Noble Knight
+491,Nordic
+492,Nordic Alfar
+493,Nordic Ascendant
+494,Nordic Beast
+495,Nordic Relic
+496,Number
+497,Number 10X
+498,Number 39: Utopia
+499,Number C
+500,Number C10X
+501,Number C39
+502,Number C39: Utopia Ray
+503,Number S
+504,Numeron
+505,Numeron Gate
+506,Numeronius
+507,Odd-Eyes
+508,Ojama
+509,Old Entity
+510,Oni
+511,Onomat
+512,Onomato
+513,Orcust
+514,Orichalcos
+515,Outer Entity
+516,Overlay
+517,PSY-Frame
+518,PSY-Framegear
+519,Paladins of Dragons
+520,Paleozoic
+521,Paleozoic Fossil Knight
+522,Palladium
+523,Papillon
+524,Parasite
+525,Parshath
+526,Pendulum
+527,Pendulum Dragon
+528,Pendulumgraph
+529,Pendulumstatue
+530,Penguin
+531,Performage
+532,Performapal
+533,Phantasm
+534,Phantasm Spiral
+535,Phantom Beast
+536,Phantom Butterfly
+537,Phantom Knights
+538,Photon
+539,Piece Golem
+540,Pixie
+541,Plant Princess
+542,Plunder Patroll
+543,Polymerization
+544,Potan
+545,Power Tool
+546,Prank-Kids
+547,Predap
+548,Predaplant
+549,Prediction Princess
+550,Priestess
+551,Prophecy
+552,Protective Seal
+553,Puppet
+554,Puppet Chess
+555,Qli
+556,Quiz
+557,Quiz Panel
+558,R-Genex
+559,Raccoon
+560,Raidraptor
+561,Railway
+562,Rank-Up-Magic
+563,Reactor
+564,Rebellion
+565,Red
+566,Red Dragon Archfiend
+567,Red-Eyes
+568,Reptilianne
+569,Rescue Squad
+570,Resonator
+571,Rider
+572,Rikka
+573,Risebell
+574,Ritual Beast
+575,Ritual Beast Tamer
+576,Ritual Beast Ulti-
+577,Robo
+578,roid
+579,Rokket
+580,Roland
+581,Rose
+582,Rose Dragon
+583,Royal
+584,Royal Cookpal
+585,Ryu-Kishin
+586,SPYRAL
+587,SPYRAL GEAR
+588,SPYRAL MISSION
+589,Saber
+590,Sacred Beast
+591,Sad Story
+592,Salamangreat
+593,Sasuke Samurai
+594,Satellite
+595,Scrap
+596,Scrap-Iron
+597,Seal
+598,Sealing Ceremony
+599,Secret Six Samurai
+600,Shaddoll
+601,Shaman
+602,Shark
+603,Shien
+604,Shikigami
+605,Shining
+606,Shinob
+607,Shinobird
+608,Shiranui
+609,Shiranui Spectralsword
+610,Signature move
+611,Signer Dragon
+612,Silent Magician
+613,Silent Swordsman
+614,Simorgh
+615,Six Samurai
+616,Skiel
+617,Skiel Attack
+618,Skilled Magician
+619,Skull Servant
+620,Sky
+621,Sky Scourge
+622,Sky Striker
+623,Sky Striker Ace
+624,Skyblaster
+625,Skyscraper
+626,Slime
+627,Smile
+628,Snake
+629,Snow
+630,Solemn
+631,Sparrow Family
+632,Speed Spell
+633,Speed World
+634,Speedroid
+635,Spell Monster
+636,Spell Spice
+637,Spellbook
+638,Sphere
+639,Sphinx
+640,Spice
+641,Spider
+642,Spirit
+643,Spirit Gem
+644,Spirit Message
+645,Spiritual Art
+646,Spiritual Beast
+647,Sprout
+648,Star God
+649,Star Seraph
+650,Stardust
+651,Starliege
+652,Starship
+653,Starving Venemy
+654,Starving Venom
+655,Statue
+656,Steelswarm
+657,Stellarknight
+658,Stone
+659,Stormrider
+660,Strain
+661,Stray Cat
+662,Stygian
+663,Subterror
+664,Subterror Behemoth
+665,Summon Restriction
+666,Summoned Skull
+667,Summoner
+668,Sunavalon
+669,Sunvine
+670,Super Defense Robot
+671,Super Magical
+672,Super Quant
+673,Super Quantal Mech Beast
+674,Super Quantum
+675,Supercolossal
+676,Superheavy
+677,Superheavy Samurai
+678,Superheavy Samurai Soul
+679,Supreme King
+680,Supreme King Dragon
+681,Supreme King Gate
+682,Sylvan
+683,Symphonic Warrior
+684,Synchro
+685,Synchro Dragon
+686,Synchron
+687,T.G.
+688,Tachyon
+689,Tachyon Dragon
+690,Tellarknight
+691,Tennis
+692,Tentacluster
+693,Tenyi
+694,Test
+695,The Agent
+696,The Fabled
+697,The Phantom Knights
+698,The Weather
+699,The Winged Dragon of Ra
+700,Thorn Prisoner
+701,Thousand Needles
+702,Three Musketeers of Face Cards
+703,Thunder Dragon
+704,Time Thief
+705,Timelord
+706,Tindangle
+707,Toad
+708,Token Celebration
+709,Tomato
+710,Toon
+711,Top
+712,Topologic
+713,Topologina
+714,Toy
+715,Trap Hole
+716,Trap Monster
+717,Traptrix
+718,Treasure Cards
+719,Triamid
+720,Trickstar
+721,True Draco
+722,True Draco and True King
+723,Turbo
+724,Twilightsworn
+725,U.A.
+726,Ultimate Crystal
+727,Ultimate Insect
+728,Umbral Horror
+729,Umi
+730,Unchained
+731,Unchained Soul
+732,Unicorn
+733,Utopia
+734,Utopic
+735,Utopic Future
+736,V
+737,Valkyrie
+738,Vampire
+739,Vanity's
+740,Vassal
+741,Vehicroid
+742,Vendread
+743,Venom
+744,Vigilante
+745,Virus
+746,Vision HERO
+747,Void
+748,Volcanic
+749,Vylon
+750,"W "
+751,Warrior
+752,Watt
+753,White
+754,White Aura
+755,White Knight
+756,White Night
+757,White Warrior
+758,Wicked God
+759,Wicked Rune
+760,Wight
+761,Wind-Up
+762,Windwitch
+763,Winged Kuriboh
+764,Wisel
+765,Wisel Attack
+766,Wisel Guard
+767,Wisel Top
+768,Witchcrafter
+769,With Chain
+770,With Eyes of Blue
+771,World Chalice
+772,World Legacy
+773,Worm
+774,X
+775,X-Saber
+776,XX-Saber
+777,Xtra HERO
+778,Xyz
+779,Xyz Dragon
+780,Y
+781,Yang Zing
+782,Yo-kai Girl
+783,Yomi
+784,Yosenju
+785,Yubel
+786,Z
+787,Z-ONE
+788,ZW -
+789,Zefra
+790,Zera
+791,Zombie counterpart
+792,Zoodiac
+793,Zubaba
+794,of Gusto
+795,∞

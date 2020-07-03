@@ -1,0 +1,353 @@
+Archetype
+/Assault Mode
+@Ignister
+A.I.
+Abyss Actor
+Abyss Script
+Abyss-
+Adamancipator
+Aesir
+Aether
+Alien
+Allure Queen
+Ally of Justice
+Altergeist
+Amazoness
+Amorphage
+Ancient Gear
+Ancient Warriors
+Apoqliphort
+Aquaactress
+Aquarium
+Arcana Force
+Archfiend
+Armed Dragon
+Aroma
+Artifact
+Assault Blackwing
+Atlantean
+B.E.S.
+Bamboo Sword
+Batteryman
+Battlewasp
+Battlin' Boxer
+Beast's Battle
+Black Luster Soldier
+Blackwing
+Blaze Accelerator
+Blue-Eyes
+Bonding
+Borrel
+Bounzer
+Bujin
+Burning Abyss
+Buster Blader
+Butterspy
+CXyz
+Celtic Guard
+Change
+Chaos
+Chemicritter
+Chronomaly
+Chrysalis
+Cipher
+Clear Wing
+Cloudian
+Code Talker
+Constellar
+Crusadia
+Crystal
+Crystal Beast
+Crystron
+Cubic
+Cyber
+Cyber Angel
+Cyber Dragon
+Cyberdark
+Cybernetic
+D/D
+D/D/D
+Dark Contract
+Dark Magician
+Dark Magician Girl
+Dark Scorpion
+Dark World
+Darkness
+Deskbot
+Destiny HERO
+Destruction Sword
+Dinomist
+Djinn
+Dododo
+Dracoslayer
+Dracoverlord
+Dragma
+Dragonmaid
+Dragunity
+Dream Mirror
+Duston
+Earthbound Immortal
+Edge Imp
+Elder Entity
+Elemental HERO
+Elemental Lord
+Elementsaber
+Empowered Warrior
+Endymion
+Evolsaur
+Evoltile
+Evolution Pill
+Evolzar
+Exodia
+Eyes Restrict
+F.A.
+Fabled
+Fairy Tale
+Familiar-Possessed
+Fire Fist
+Fire Formation
+Fire King
+Fire King Avatar
+Fishborg
+Flamvell
+Fluffal
+Forbidden One
+Fortune Lady
+Frightfur
+Frog
+Fusion
+Fusion Dragon
+Gadget
+Gagaga
+Gaia The Fierce Knight
+Galaxy
+Galaxy-Eyes
+Galaxy-Eyes Tachyon Dragon
+Geargia
+Geargiano
+Gem-
+Gem-Knight
+Genex
+Genex Ally
+Ghostrick
+Gimmick Puppet
+Gishki
+Gladiator Beast
+Gogogo
+Gouki
+Gravekeeper's
+Graydle
+Guardian
+Gusto
+HERO
+Harpie
+Hazy
+Hazy Flame
+Heraldic Beast
+Heraldry
+Heroic
+Heroic Challenger
+Hieratic
+Hole
+Horus the Black Flame Dragon
+Ice Barrier
+Impcantation
+Infernity
+Infinitrack
+Inmato
+Invoked
+Inzektor
+Iron Chain
+Junk
+Jurrac
+Kaiju
+Karakuri
+Knightmare
+Koa'ki Meiru
+Kozmo
+Krawler
+Kuriboh
+LV
+Laval
+Legendary Dragon
+Legendary Knight
+Lightsworn
+Lswarm
+Lunalight
+Lyrilusc
+Machina
+Machine Angel
+Madolche
+Magical Musket
+Magician
+Magician Girl
+Magna Warrior
+Majespecter
+Majestic
+Malefic
+Malicevorous
+Marincess
+Masked HERO
+Mayakashi
+Mecha Phantom Beast
+Mekk-Knight
+Meklord
+Meklord Army
+Meklord Astro
+Meklord Emperor
+Melodious
+Melodious Maestra
+Mermail
+Metalfoes
+Metaphys
+Mist Valley
+Monarch
+Morphtronic
+Mythical Beast
+Naturia
+Necrovalley
+Nekroz
+Neo-Spacian
+Neos
+Nephthys
+Nimble
+Ninja
+Ninjitsu Art
+Nitro
+Noble Arms
+Noble Knight
+Nordic
+Nordic Alfar
+Nordic Ascendant
+Nordic Beast
+Nordic Relic
+Number
+Number 10X
+Number C
+Number C10X
+Number C39
+Numeron Gate
+Odd-Eyes
+Ojama
+Old Entity
+Onomat
+Outer Entity
+PSY-Frame
+PSY-Framegear
+Paleozoic
+Palladium
+Parshath
+Pendulum
+Pendulum Dragon
+Pendulumgraph
+Penguin
+Performage
+Performapal
+Phantasm
+Phantom Beast
+Phantom Knights
+Photon
+Plunder Patroll
+Polymerization
+Potan
+Power Tool
+Prediction Princess
+Prophecy
+Qli
+R-Genex
+Raidraptor
+Rank-Up-Magic
+Reactor
+Rebellion
+Red Dragon Archfiend
+Red-Eyes
+Reptilianne
+Resonator
+Ritual Beast
+Ritual Beast Tamer
+Ritual Beast Ulti-
+roid
+Rokket
+Roland
+Rose
+Rose Dragon
+SPYRAL GEAR
+SPYRAL MISSION
+Saber
+Scrap
+Shaddoll
+Shien
+Shiranui
+Shiranui Spectralsword
+Six Samurai
+Skyblaster
+Skyscraper
+Souten
+Speedroid
+Spellbook
+Sphinx
+Spirit Message
+Spiritual Beast
+Sprout
+Star Seraph
+Stardust
+Starving Venom
+Steelswarm
+Stellarknight
+Subterror
+Subterror Behemoth
+Super Defense Robot
+Super Quant
+Super Quantal Mech Beast
+Super Quantum
+Superheavy Samurai
+Superheavy Samurai Soul
+Supreme King
+Supreme King Dragon
+Supreme King Gate
+Sylvan
+Symphonic Warrior
+Synchro Dragon
+Synchron
+T.G.
+Tellarknight
+The Agent
+The Phantom Knights
+The Weather
+Timelord
+Tindangle
+Toon
+Trap Hole
+Traptrix
+Triamid
+Trickstar
+U.A.
+Ultimate Crystal
+Umbral Horror
+Utopia
+Utopic
+Utopic Future
+Vampire
+Vehicroid
+Vendread
+Venom
+Vision HERO
+Volcanic
+Vylon
+Warrior
+Watt
+Wind-Up
+Windwitch
+Winged Kuriboh
+World Chalice
+World Legacy
+Worm
+X-Saber
+Xyz
+Xyz Dragon
+Yang Zing
+Yosenju
+Z-ONE
+ZW -
+Zefra
+Zoodiac
